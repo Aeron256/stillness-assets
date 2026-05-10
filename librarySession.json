@@ -3,9 +3,9 @@
     "guided": [
             {
                 "title": "Guided Meditation for positive energy",
-                "description": "A quick meditation session to help you relax and refocus.",
-                "5min": "https://github.com/Aeron256/stillness-meditation-app/raw/refs/heads/main/gitAssets/audio/guided/5-1.mp3",
-                "10min": "https://github.com/Aeron256/stillness-meditation-app/raw/refs/heads/main/gitAssets/audio/guided/10-1.mp3"
+                "description": "A quick meditation session to help you have a positive energy in the morning.",
+                "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/guided/5-1.mp3",
+                "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/guided/10-1.mp3"
             }
     ],
     "nature": [],
