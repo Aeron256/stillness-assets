@@ -1,5 +1,4 @@
 {
-    "music": [],
     "guided": [
             {
                 "title": "Guided Meditation for positive energy",
@@ -8,6 +7,31 @@
                 "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/guided/10-1.mp3"
             }
     ],
-    "nature": [],
-    "breathing": []
+    "focus": [
+            {
+                "title": "Focus Meditation for work",
+                "description": "A meditation session to help you focus on your work and be more productive.",
+                "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/5-1.mp3",
+                "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/10-1.mp3",
+                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/15-1.mp3"
+            }
+    ],
+    "instrumental": [
+            {
+                "title": "Instrumental Meditation for relaxation",
+                "description": "A meditation session with instrumental music to help you relax and unwind.",
+                "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/5-1.mp3",
+                "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/10-1.mp3",
+                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/15-1.mp3"
+            }
+    ],
+    "nature": [
+            {
+                "title": "Nature Meditation for stress relief",
+                "description": "A meditation session with nature sounds to help you relieve stress and feel more connected to nature.",
+                "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/5-1.mp3",
+                "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/10-1.mp3",
+                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/15-1.mp3"
+            }
+    ]
 }
