@@ -4,7 +4,8 @@
                 "title": "Guided Meditation for positive energy",
                 "description": "A quick meditation session to help you have a positive energy in the morning.",
                 "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/guided/5-1.mp3",
-                "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/guided/10-1.mp3"
+                "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/guided/10-1.mp3",
+                "image": "https://images.unsplash.com/photo-1518708909080-704599b19972?auto=format&fit=crop&w=200"
             }
     ],
     "focus": [
@@ -13,7 +14,8 @@
                 "description": "A meditation session to help you focus on your work and be more productive.",
                 "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/5-1.mp3",
                 "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/10-1.mp3",
-                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/15-1.mp3"
+                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/focus/15-1.mp3",
+                "image": "https://images.unsplash.com/photo-1513097847644-f00cfe868607?auto=format&fit=crop&w=200"
             }
     ],
     "instrumental": [
@@ -22,7 +24,8 @@
                 "description": "A meditation session with instrumental music to help you relax and unwind.",
                 "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/5-1.mp3",
                 "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/10-1.mp3",
-                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/15-1.mp3"
+                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/instrumental/15-1.mp3",
+                "image": "https://images.unsplash.com/photo-1579291465308-fba6c5db2dfe?auto=format&fit=crop&w=200"
             }
     ],
     "nature": [
@@ -31,7 +34,8 @@
                 "description": "A meditation session with nature sounds to help you relieve stress and feel more connected to nature.",
                 "5min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/5-1.mp3",
                 "10min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/10-1.mp3",
-                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/15-1.mp3"
+                "15min": "https://github.com/Aeron256/stillness-assets/raw/refs/heads/main/audio/nature/15-1.mp3",
+                "image": "https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?auto=format&fit=crop&w=200"
             }
     ]
 }
